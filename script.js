@@ -1,50 +1,11 @@
-//your JS code here. If required.
-body {
-  background-color: #f8f8f8;
-  font-family: Arial, sans-serif;
-}
-
 .book-library {
-  width: 300px;
-  margin: 20px auto;
   background-color: #ffffff;
   padding: 10px;
-  border-radius: 4px;
+  width: 320px;
+  margin: 20px auto;
 }
 
-.book-library h2 {
-  text-align: center;
-  margin-bottom: 15px;
-}
 
-.book {
-  margin-bottom: 20px;
-  padding: 10px;
-  background-color: #f2f2f2;
-  border-radius: 4px;
-}
 
-.book img {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin-bottom: 8px;
-}
+/* creates visible white gap */
 
-.book h3 {
-  margin: 5px 0;
-}
-
-.author {
-  color: #777777;
-  font-size: 14px;
-}
-
-.price {
-  background-color: #2ecc71;
-  color: #ffffff;
-  text-align: center;
-  padding: 6px;
-  margin-top: 8px;
-  border-radius: 3px;
-}

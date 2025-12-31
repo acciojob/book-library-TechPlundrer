@@ -4,7 +4,7 @@ body {
 	font-family: Arial, sans-serif;
 }
 .book-library {
-	width: 300px;
+	width: 320px;
 	margin: 20px auto;
 	background-color: #ffffff;
 	padding: 10px;
@@ -30,4 +30,11 @@ body {
 	padding: 6px;
 	margin-top: 8px;
 	border-radius: 3px;
+}
+.book {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+.book + .book {
+  margin-top: 15px;
 }
